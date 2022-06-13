@@ -12,9 +12,10 @@
 ![](https://hit.yhype.me/github/profile?user_id=Divya@748)
 
 ### Skills -
-    * Spring boot
-    * thymeleaf
-    * mysql
+ * Spring boot
+ * thymeleaf
+ *  mysql
+    
 
 ### I am interested in -
   * Machine Learning
