@@ -39,7 +39,7 @@
 
 <br>
 <br>
-- 🌱 I’m currently learning MLOPS
+- 🌱 I’m currently learning Design patterns on microservices
 
 <br>
 <br>
