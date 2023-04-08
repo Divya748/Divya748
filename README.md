@@ -11,18 +11,26 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=Divya@748)
 
-### Skills -
+### Java Skills -
+ * Java-8
  * Spring boot
- * thymeleaf
- *  mysql
+ * Spring Data (JPA)
+ * (RDBMS) Mysql
+ * (No-Sql) MongoDb - basics
+ * Microservices(Discovery Client,Api gateway,circuit breaker,CQRS)
+ * AWS(basics)
+ * REST-Api
+ * Platforms: Spring Tool Suite(STS)
     
 
-### I am interested in -
+### Data Science Skills -
   * Machine Learning
-  * Natural Language Processing 
   * Deep Learning 
   * Python
   * Flask
+  * Py-Charm
+  * Matplotlib, Pandas, NumPy, Scikit-learn
+  * Platforms: Anaconda, Pycharm, Vs-code, Jupyter notebook, Spyder, Co-lab.
 
 
 
